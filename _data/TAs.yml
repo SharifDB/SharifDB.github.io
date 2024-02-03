@@ -6,24 +6,89 @@
   subtitle: Lead TA
   email: Amirmm71382@gmail.com
   img: assets/images/TAs/meighani.jpg
-- name: Amirhossein Alamdar
-  email: ah.alamdar546@gmail.com
-  img: assets/images/TAs/alamdar.jpg
+- name: Hossein Aghaei
+  subtitle: SQL Workshop
+  email: h.aghaei.araei@gmail.com
+  img: assets/images/TAs/aghaei.jpg
+- name: Shahab Hosseini
+  subtitle: NoSQL Workshop
+  email: s.hosseini306@gmail.com
+  img: assets/images/TAs/shahab.jpg
+- name: Ehsan Rahmani
+  email: ehsan8202@gmail.com
+  img: assets/images/TAs/ehsan.jpg
+- name: Kiarash Kianian
+  email: oxfvard@gmail.com
+  img: assets/images/TAs/kiarash.jpg
+- name: Fatemeh Esbati
+  email: fatemesbati79@gmail.com
+  img: assets/images/TAs/esbati.jpg
+- name: Ali Alvandi
+  email: alialvandi00@gmail.com
+  img: assets/images/TAs/alvandi.jpg
+- name: Erfan Jafari
+  email: ejafari06@gmail.com
+  img: assets/images/TAs/jafari.jpg
+- name: Asemaneh Nafe
+  email: asemanehnafe2@gmail.com
+  img: assets/images/TAs/asemaneh.jpg
+- name: Niki Sepasian
+  email: sepasian.niki@gmail.com
+  img: assets/images/TAs/niki.jpg
+- name: Farhad Esmail Zadeh
+  email: farhadesmzdh@gmail.com
+  img: assets/images/TAs/esmailzadeh.jpg
+- name: AmirReza Abotalebi
+  email: amirrezaabotalebi81@gmail.com
+  img: assets/images/TAs/abotalebi.jpg
+- name: Zahra Rahmani
+  email: zahra.rahmaniez@gmail.com
+  img: assets/images/TAs/rahmani.jpg
 - name: Reza Heidari
   email: r4heidari@gmail.com
   img: assets/images/TAs/heidari1.jpg
-- name: Amirhossein Koochakian
-  email: amirkoochk@gmail.com
-  img: assets/images/TAs/koochakian.jpg
+- name: Seyed Erfan Zarinkia
+  email: seyederfanzarinkia@gmail.com
+  img: assets/images/TAs/zarinkia.jpg
+- name: Amirhossein Alamdar
+  email: ah.alamdar546@gmail.com
+  img: assets/images/TAs/alamdar.jpg
+- name: Haniye Mollaei
+  email: haniyemollaei99@gmail.com
+  img: assets/images/TAs/mollaei.jpg
+- name: Taraneh Khosrojerdy
+  email: taraneh.khosrojerdy@gmail.com
+  img: assets/images/TAs/taraneh.jpg
+- name: Alireza Farshi
+  email: azerila.farshi@gmail.com
+  img: assets/images/TAs/farshi.jpg
 - name: Mohammaderfan Salima
   email: erfansalima@gmail.com
   img: assets/images/TAs/salima.jpg
-- name: Amirhossein Azizi
-  email: amirhosseinazizi10@gmail.com
-  img: assets/images/TAs/azizi.jpg
-- name: Mohammad Mahdi Akbar
-  email: mahdiakbr81@gmail.com
-  img: assets/images/TAs/akbar.jpg
+- name: Mahan Bayhaghi
+  email: mahan.bayhaghi@gmail.com
+  img: assets/images/TAs/mahan.jpg
+- name: Amirmahdi Daraie
+  email: daraieamirmahdi@gmail.com
+  img: assets/images/TAs/daraie.jpg
+- name: Helia Akhtarkavian
+  email: Heliakaviansharif@gmail.com
+  img: assets/images/TAs/helia.jpg
+- name: Pedram Sadeghian
+  email: pedy4000@gmail.com
+  img: assets/images/TAs/pedram.jpg
+- name: Arshia Dadras
+  email: arshiadadras1234@gmail.com
+  img: assets/images/TAs/dadras.jpg
 - name: Danial Gharib
   email: danial.mail.gh@gmail.com
   img: assets/images/TAs/gharib.jpg
+- name: Amirhossein Azizi
+  email: amirhosseinazizi10@gmail.com
+  img: assets/images/TAs/azizi.jpg
+- name: Ali Bakhtiari
+  email: arshiapanahianzzna6@gmail.com
+  img: assets/images/TAs/bakhi.jpg
+- name: Mohammad Mahdi Akbar
+  email: mahdiakbr81@gmail.com
+  img: assets/images/TAs/akbar.jpg
