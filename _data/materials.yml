@@ -1,1 +1,20 @@
-
+- title: Database Architecture
+  subtitle: Bahman 29, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/2-Database Architecture.pdf
+    - file: Notes
+      link: assets/materials/Dr. Amini Slides-SystemArchitectures.pdf
+- title: Introduction
+  subtitle: Bahman 24, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/1-Introduction.pdf
+    - file: Notes
+      link: assets/materials/Dr. Amini Slides - DB-Introduction.pdf
+- title: Course Description
+  subtitle: Bahman 15, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/0-Course Description.pdf
+  
