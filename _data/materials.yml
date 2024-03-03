@@ -1,8 +1,15 @@
+- title: Data Modeling Part2
+  subtitle: Esfand 12, 1402
+  assets:
+  -file: Slide
+    link: assets/materials/ClassSlides/3-Data Modeling-Part2.pdf
+
 - title: Data Modeling
   subtitle: Esfand 1, 1402
   assets:
     - file: Slide
       link: assets/materials/ClassSlides/3-Data Modeling-Part1.pdf
+
 - title: Database Architecture
   subtitle: Bahman 29, 1402
   assets:
@@ -10,6 +17,7 @@
       link: assets/materials/ClassSlides/2-Database Architecture.pdf
     - file: Notes
       link: assets/materials/DrAmini/Dr. Amini Slides-SystemArchitectures.pdf
+
 - title: Introduction
   subtitle: Bahman 24, 1402
   assets:
@@ -17,6 +25,7 @@
       link: assets/materials/ClassSlides/1-Introduction.pdf
     - file: Notes
       link: assets/materials/DrAmini/Dr. Amini Slides - DB-Introduction.pdf
+
 - title: Course Description
   subtitle: Bahman 15, 1402
   assets:
