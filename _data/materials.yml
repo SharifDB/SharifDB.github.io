@@ -1,8 +1,10 @@
 - title: Data Modeling Part2
   subtitle: Esfand 12, 1402
   assets:
-  - file: Slide
-    link: assets/materials/ClassSlides/3-Data Modeling-Part2.pdf
+    - file: Slide
+      link: assets/materials/ClassSlides/4-Data Modeling-Part2.pdf
+    - file: Notes
+      link: assets/materials/DrAmini/Dr. Amini Slides - DataModeling.pdf
 
 - title: Data Modeling
   subtitle: Esfand 1, 1402
