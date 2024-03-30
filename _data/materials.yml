@@ -1,3 +1,10 @@
+- title: Reducing EER Diagrams to Relational Schemas
+  subtitle: Esfand 27, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/ClassSlides/8-Reducing EER Diagrams to Relational Schemas.pdf
+    - file: Notes
+      link: assets/materials/DrAmini/Dr. Amini Slides - LogicalDesign.pdf
 - title: Reducing ER Diagrams to Relational Schemas
   subtitle: Esfand 22, 1402
   assets:
