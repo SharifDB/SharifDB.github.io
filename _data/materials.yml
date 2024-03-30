@@ -13,13 +13,13 @@
     - file: Notes
       link: assets/materials/DrAmini/Dr. Amini Slides - LogicalDesign.pdf
 
-- title: Enhanced ER
+- title: Enhanced Entity Relationship (EER) Model
   subtitle: Esfand 15, 1402
   assets:
     - file: Slide
       link: assets/materials/ClassSlides/5-EER.pdf
 
-- title: Data Modeling Part2
+- title: Entity Relationship (ER) Model
   subtitle: Esfand 12, 1402
   assets:
     - file: Slide
