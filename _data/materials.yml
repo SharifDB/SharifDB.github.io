@@ -1,3 +1,11 @@
+- title: SQL
+  subtitle: Farvardin 19, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/ClassSlides/9-SQL.pdf
+    - file: Notes
+      link: assets/materials/DrAmini/Dr. Amini Slides - SQL.pdf
+
 - title: Reducing EER Diagrams to Relational Schemas
   subtitle: Esfand 27, 1402
   assets:
