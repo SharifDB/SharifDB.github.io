@@ -1,8 +1,16 @@
-- title: SQL
-  subtitle: Farvardin 19, 1403
+- title: DDL SQL Statements
+  subtitle: Farvardin 21, 1403
   assets:
     - file: Slide
-      link: assets/materials/ClassSlides/9-SQL.pdf
+      link: assets/materials/ClassSlides/10-DDL_SQL_Statements.pdf
+    - file: Notes
+      link: assets/materials/DrAmini/Dr. Amini Slides - SQL.pdf
+
+- title: Introduction to SQL
+  subtitle: Farvardin 21, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/ClassSlides/9-Introduction to SQL.pdf
     - file: Notes
       link: assets/materials/DrAmini/Dr. Amini Slides - SQL.pdf
 
