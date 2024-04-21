@@ -1,3 +1,15 @@
+- title: DCL SQL Statements
+  subtitle: Ordibehesht 2, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/ClassSlides/12-DCL.pdf
+
+- title: DML SQL Statements
+  subtitle: Ordibehesht 2, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/ClassSlides/11-DML_SQL_Statements.pdf
+
 - title: DDL SQL Statements
   subtitle: Farvardin 21, 1403
   assets:
