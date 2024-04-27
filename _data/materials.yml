@@ -1,3 +1,17 @@
+- title: Three-Schema Architecture and Data Independence
+  subtitle: Ordibehesht 9, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/ClassSlides/14-Three-Schema Architecture and Data Independence.pdf
+
+- title: View
+  subtitle: Ordibehesht 9, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/ClassSlides/13-View.pdf
+    - file: Notes
+      link: assets/materials/DrAmini/Dr. Amini Slides - View.pdf
+
 - title: DCL SQL Statements
   subtitle: Ordibehesht 2, 1403
   assets:
