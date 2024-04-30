@@ -1,3 +1,17 @@
+- title: Integrity, Assertion, Procedure, Function, and Trigger
+  subtitle: Ordibehesht 11, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/ClassSlides/16-Integrity, Assertion, Procedure, Function, and Trigger.pdf
+    - file: Notes
+      link: assets/materials/DrAmini/8-DB-Integrity.pdf
+
+- title: TCL
+  subtitle: Ordibehesht 11, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/ClassSlides/15-TCL.pdf
+
 - title: Three-Schema Architecture and Data Independence
   subtitle: Ordibehesht 9, 1403
   assets:
