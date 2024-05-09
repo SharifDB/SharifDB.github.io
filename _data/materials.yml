@@ -80,13 +80,13 @@
   subtitle: Esfand 15, 1402
   assets:
     - file: Slide
-      link: assets/materials/ClassSlides/5-EER.pdf
+      link: assets/materials/ClassSlides/5-EER Model.pdf
 
 - title: Entity Relationship (ER) Model
   subtitle: Esfand 12, 1402
   assets:
     - file: Slide
-      link: assets/materials/ClassSlides/4-Data Modeling-Part2.pdf
+      link: assets/materials/ClassSlides/4-ER Model.pdf
     - file: Notes
       link: assets/materials/DrAmini/Dr. Amini Slides - DataModeling.pdf
 
@@ -94,7 +94,7 @@
   subtitle: Esfand 1, 1402
   assets:
     - file: Slide
-      link: assets/materials/ClassSlides/3-Data Modeling-Part1.pdf
+      link: assets/materials/ClassSlides/3-Data Modeling-Introduction.pdf
 
 - title: Database Architecture
   subtitle: Bahman 29, 1402
