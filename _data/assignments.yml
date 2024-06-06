@@ -29,3 +29,13 @@
   assets: 
   - file: Question Set
     link: assets/materials/spring 2024 - assignments/HW3.pdf
+
+- title: Normalization, Index, Partition
+  subtitle: HW4
+  paragraph: >1
+    160 Points, Submission Deadline: 1403/03/29, late submission until 1403/04/02<br>
+  assets: 
+  - file: Question Set
+    link: assets/materials/spring 2024 - assignments/HW4.pdf
+  - file: Q6-Database
+    link: assets/materials/spring 2024 - assignments/assets/HW4-Insert.sql
