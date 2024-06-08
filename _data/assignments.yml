@@ -31,11 +31,21 @@
     link: assets/materials/spring 2024 - assignments/HW3.pdf
 
 - title: Normalization, Index, Partition
-  subtitle: HW4
+  subtitle: HW4-Theory
   paragraph: >1
-    160 Points, Submission Deadline: 1403/03/29, late submission until 1403/04/02<br>
+    110 Points, Submission Deadline: 1403/03/29, late submission until 1403/04/02<br>
   assets: 
   - file: Question Set
     link: assets/materials/spring 2024 - assignments/HW4.pdf
   - file: Q6-Database
     link: assets/materials/spring 2024 - assignments/assets/HW4-Insert.sql
+
+- title: Mongo DB
+  subtitle: HW4-Practical
+  paragraph: >1
+    100 Points, Submission Deadline: 1403/04/06
+  assets:
+  - file: Jupyter Notebook
+    link: assets/materials/spring 2024 - assignments/assets/DB-HW4.ipynb
+  - file: Mongo DB Workshop
+    link: https://drive.google.com/drive/folders/1rRxZcTRMRi_cDWpopCkZc1dPz3zgr93d?usp=sharing
